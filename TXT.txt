@@ -1,0 +1,48 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        /*
+        *CONVENÇÕES
+        
+        1° Nome da variavel SEMPRE começa com letra 
+        minuscula.
+        
+        2° Funções e Métodos sempre possuem 
+        parenteses, geralmente começa com letra
+        minuscula.
+        
+        3° Classes sempre começam com letra
+        Maiuscula.
+        
+        int minha_variavel;  - snake 
+        inte minhaVariavel;  - came on case
+        *
+        */
+        
+        // Elabore um programa que:
+        
+        // Sortei um número de 0 a 10;
+        // Solicite ao usuário em 3 tentativas qual numero
+        //  ele acha que foi sorteado;
+        // Conte quantas tentativas o usuario está fazendo
+        // Caso ele acerte, apresente o numero e a quantidade de tentativas;
+        // Caso ele não acerte nas 3 tentativas, avise que perdeu e informe o numero sorteado.
+        // Caso o usuário digite um numero que não esteja na faixa, solicite um novo numero e não conte a tentativa.
+        
+        
+        //TEM QUE TER COMENTARIO
+        //VARIAVEL COM NOME COM SENTIDO
+        //FUNÇÕES COM NOMES DECLARADOS
+        
+        
+        
+        
+        Console.WriteLine ("Try programiz.pro");
+    }
+}
